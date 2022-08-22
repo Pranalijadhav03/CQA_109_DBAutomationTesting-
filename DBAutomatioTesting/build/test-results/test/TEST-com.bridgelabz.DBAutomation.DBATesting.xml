@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.DBAutomation.DBATesting" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-22T07:53:43" hostname="DESKTOP-PE5C432" time="1.705">
+  <properties/>
+  <testcase name="dbTest_DeleteData" classname="com.bridgelabz.DBAutomation.DBATesting" time="1.705"/>
+  <system-out><![CDATA[Connection established
+Getting all deleted data successfully
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
